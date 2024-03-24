@@ -1,6 +1,6 @@
-# NBA Finals Exploratory Data Analysis: Championships vs Runner-Ups
+# NBA Finals EDA: Championships vs Runner-Ups
 
-## Task
+### Task
 Aim to study the changing play styles of NBA Championship teams and explore how home-court advantage affects team performances. 
 To understand the broader scope of the project, we'll address specific questions:
 
@@ -9,15 +9,15 @@ To understand the broader scope of the project, we'll address specific questions
 * What impact does home-court advantage have on NBA Finals performance?
 * How has the play style of championship-winning teams evolved over time—are they more offense-centered or defensive-minded?
 
-## Data Source
+### Data Source
 * Kaggle Dataset of [NBA Finals team statistics from the 1980-2018 seasons](https://www.kaggle.com/datasets/daverosenman/nba-finals-team-stats) gathered by Dave Rosenman.
 
-## Tools
+### Tools
 * Tidyverse - Dplyr, Tidyr, and Ggplot2
 
 * Forcats - Manage and manipulate categorical variables*
 
 * Grid Extra - Construct and manipulate the layout of our visualizations
 
-## Project Link
+### Project Link
 * [RPubs](https://rpubs.com/Kesar_Sidhu/1165382)
