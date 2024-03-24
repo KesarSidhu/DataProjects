@@ -19,5 +19,5 @@ To understand the broader scope of the project, we'll address specific questions
 
 * Grid Extra - Construct and manipulate the layout of our visualizations
 
-##Project Link
-* [PDF](file:///Users/kesarsidhu/R%20Studio/EDA/Projects/NBA-Championships-vs-Runner-Ups.html)
+## Project Link
+* [RPubs](https://rpubs.com/Kesar_Sidhu/1165382)
