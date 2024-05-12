@@ -1,7 +1,7 @@
 # 🏀 NBA Finals EDA: Championships vs Runner-Ups
 
 ### Task
-Aim to study the changing play styles of NBA Championship teams and explore how home-court advantage affects team performances. 
+Aimed to study the changing play styles of NBA Championship teams and explore how home-court advantage affects team performances. 
 To understand the broader scope of the project, we'll address specific questions:
 
 * In which areas did NBA Championship teams consistently outperform the runner-ups in NBA Finals games?
