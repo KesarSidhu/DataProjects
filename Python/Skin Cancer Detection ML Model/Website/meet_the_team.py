@@ -18,7 +18,7 @@ def meet_the_team():
             "image": "Images/sri.jpeg"
         },
         {
-            "name": "Kesar Siddu",
+            "name": "Kesar Sidhu",
             "role": "Tech Lead",
             "image": "Images/sri.jpeg"
         },
