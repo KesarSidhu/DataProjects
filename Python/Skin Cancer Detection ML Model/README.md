@@ -1,7 +1,7 @@
 # 🦠 Skin Cancer Detection ML Model
 
 ### Task
-Developed a machine learning model to predict skin cancer from clinical images of skin lesions. This tool aims to help people detect cancer earlier and more conveniently, as even a few days can make a life-saving difference. The model was trained on over 1,800 images and can identify six types of cancerous skin lesions:
+Developed a machine learning model to predict skin cancer from clinical images of skin lesions. This tool aims to help people detect cancer earlier and more conveniently, as even a few days can make a life-saving difference. The model was trained and tested on over 1,800 images and can identify six types of cancerous skin lesions:
 - Actinic Keratosis (ACK)
 - Basal Cell Carsinoma (BCC)
 - Malignant Melanoma (MEL)
