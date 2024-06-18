@@ -13,7 +13,7 @@ Developed a machine learning model to predict skin cancer from clinical images o
 - The skin lesion dataset, composed of clinical images and patient data, was sourced from the [PAD-UFES-20](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7479321/) dataset collected by the National Library of Medicine.
 
 ### Tools
-- Google CoLab
-- Python (Pandas, NumPy, Seaborn, Matplotlib, TensorFlow (ResNet50 model), Scikit-Learn
+- Pandas, NumPy, Seaborn, Matplotlib, TensorFlow (ResNet50 model), Scikit-Learn
 - Figma
-- Streamlit 
+- Streamlit
+- Google CoLab
