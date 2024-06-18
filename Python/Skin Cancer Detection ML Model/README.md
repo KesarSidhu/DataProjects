@@ -10,7 +10,7 @@ Developed a machine learning model to predict skin cancer from clinical images o
 - Serborrheic Keratosis (SEK)
 
 ### Data Source
-- Date used to train and test the model is gathered by the [National Library of Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7479321/)
+- The skin lesion dataset, composed of clinical images and patient data, was sourced from the [PAD-UFES-20](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7479321/) dataset collected by the National Library of Medicine.
 
 ### Tools
 - Google CoLab
